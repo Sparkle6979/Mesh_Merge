@@ -1,0 +1,13 @@
+- metahuman
+  - 双眼：left：（18319）right：（1302）
+  - 鼻子：14326
+  - 左右嘴唇：left：10155、right：21045 up:19911
+  - 耳朵：left：17309、right：22475
+  - 脖子：before:2949、left:2259、after:2057、right:11656
+- mesh head
+  - 双眼：left：9066（14215）、right：12705（12698）
+  - 鼻子：10831
+	- 左右嘴唇：left：4187、right：13151 up:9707
+  - 耳朵：left：8203、right：15940
+  - 脖子：before:1216、left:12021、after:16663、right:17106
+- 做刚性空间变换

@@ -1,0 +1,7 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Texture_0
+d 1.000000
+illum 1
+map_Kd FaceColor_MAIN.TGA
